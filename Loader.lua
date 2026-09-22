@@ -10,7 +10,7 @@ local player = Players.LocalPlayer
 
 -- KONFIGURASI REPOSITORY & SAVING
 local KEY_LIST_URL = "https://raw.githubusercontent.com/ens9555/MasensDevHub/main/keys.json"
-local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/ens9555/MasensDevHub/main/Main.lua"
+local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/ens9555/Lonely/refs/heads/main/keys.json"
 local SAVE_FILE = "MD_MasensDevHub_KeySave.json"
 local KEY_EXPIRE_TIME = 12 * 3600 -- 12 Jam dalam detik (43.200 detik)
 
